@@ -1,5 +1,5 @@
-### Gildas N. — Financial Data Analyst | FP&A, P&L & Variance Analysis
-**Excel • SQL • Python • Power BI | Cotonou, Bénin — Ouvert au remote**
+### Gildas NK. - Financial Data Analyst | FP&A, P&L & Variance Analysis
+**Excel • SQL • Python • Power BI | Cotonou, Bénin - Ouvert au remote**
 
 Je transforme des balances comptables brutes & données de ventes en reporting décisionnel pour le pilotage (P&L, Bridge Volume/Prix/Mix, COGS/FX, Variance Analysis).
 
@@ -9,6 +9,7 @@ Je transforme des balances comptables brutes & données de ventes en reporting d
 #### 🛠️ Stack
 
 **Finance:** P&L | Bridge (Volume / Prix / Mix / COGS / FX) | Variance Analysis | Reporting Mensuel & Annuel | Due Diligence | Modélisation Bilan/TFT
+
 **Data:** 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat)
@@ -35,7 +36,6 @@ Je transforme des balances comptables brutes & données de ventes en reporting d
 [![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsadgil@gmail.com)
 [![WHATSAPP](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/TONNUMERO)
 
-> 📍 Cotonou, Bénin — Ouvert au remote | Disponible pour missions freelance
-> Reporting • Modélisation P&L / Bilan / TFT • Bridge • Nettoyage de balance
+> Reporting • Modélisation P&L / Bilan / TFT • Bridge • Nettoyage de balance & Automatisation
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nsadgil&color=blue&style=flat)
