@@ -22,14 +22,6 @@ Je transforme des balances comptables brutes & données de ventes en reporting d
 #### 📂 Projets phares — [portfolio-financial-analyst →](https://github.com/nsadgil/portfolio-financial-analyst)
 
 > Chaque projet contient : `données sources → scripts → outputs → rapport business`
-
-| Projet | Mission | Fichiers clés |
-| :--- | :--- | :--- |
-| **01 - AfriTech** | Analyse commerciale 360° : CA par catégorie & pays | SQL, Python, Excel |
-| **02 - Grand Livre** | Construction P&L + saisonnalité | Python, Excel |
-| **03 - Bridge de Marge** | Bridge N-1 → N expliqué (effet prix, volume, mix, coût) | Excel, Waterfalls |
-| **04 - Kossou Énergie** | Audit flash balance & reporting financier | Excel |
-
 ---
 
 #### 📊 GitHub Stats
