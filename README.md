@@ -25,9 +25,9 @@ I turn raw trial balances & sales data into decision-ready reporting for P&L ste
 
 > Each project = `raw data + scripts + outputs + business report`
 
-1.  **P&L & Bridge Analysis** — De la balance brute au Bridge Volume/Prix/Mix expliqué
-2.  **Variance Analysis & Reporting** — Modèle de reporting mensuel automatisé
-3.  **Power BI - Due Diligence Dashboard** — Nettoyage de balance & KPIs financiers
+1.  **P&L & Bridge Analysis** - De la balance brute au Bridge Volume/Prix/Mix expliqué
+2.  **Variance Analysis & Reporting** - Modèle de reporting mensuel automatisé
+3.  **Power BI - Due Diligence Dashboard** - Nettoyage de balance & KPIs financiers
 
 ---
 #### 📫 Me contacter
