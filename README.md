@@ -1,14 +1,14 @@
-### Gildas NK. - Financial Data Analyst | FP&A, P&L & Variance Analysis
-**Excel • SQL • Python • Power BI | Cotonou, Bénin - Ouvert au remote**
+### Gildas NK. - Financial Data Analyst | FP&A & Due Diligence | Excel • Power BI • SQL/Python 
+**Available for freelance - Remote**
 
-Je transforme des balances comptables brutes & données de ventes en reporting décisionnel pour le pilotage (P&L, Bridge Volume/Prix/Mix, COGS/FX, Variance Analysis).
+I turn raw trial balances & sales data into decision-ready reporting for P&L steering, Bridge Analysis (Volume/Price/Mix, COGS/FX) & Variance Analysis.
 
 📍 Cotonou, Bénin | 🌍 Open to remote & freelance | 💼 Available immediately
 
 ---
 #### 🛠️ Stack
 
-**Finance:** P&L | Bridge (Volume / Prix / Mix / COGS / FX) | Variance Analysis | Reporting Mensuel & Annuel | Due Diligence | Modélisation Bilan/TFT
+**Finance:** P&L | Bridge (Volume / Prix / Mix / COGS / FX) | Variance Analysis | Monthly & Annual Reporting | Due Diligence | Modélisation Bilan/TFT
 
 **Data:** 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
@@ -23,7 +23,7 @@ Je transforme des balances comptables brutes & données de ventes en reporting d
 ---
 #### 📁 Projets phares — [portfolio-financial-analyst](https://github.com/nsadgil/portfolio-financial-analyst)
 
-> Chaque projet = `données sources + scripts + outputs + rapport business`
+> Each project = `raw data + scripts + outputs + business report`
 
 1.  **P&L & Bridge Analysis** — De la balance brute au Bridge Volume/Prix/Mix expliqué
 2.  **Variance Analysis & Reporting** — Modèle de reporting mensuel automatisé
