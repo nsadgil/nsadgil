@@ -21,7 +21,7 @@ I turn raw trial balances & sales data into decision-ready reporting for P&L ste
 **Outils:** Jupyter | Git | Excel Charts | Matplotlib | Seaborn
 
 ---
-#### 📁 Projets phares — [portfolio-financial-analyst](https://github.com/nsadgil/portfolio-financial-analyst)
+#### 📁 Projets phares - [portfolio-financial-analyst](https://github.com/nsadgil/portfolio-financial-analyst)
 
 > Each project = `raw data + scripts + outputs + business report`
 
