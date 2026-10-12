@@ -1,4 +1,4 @@
-### Gildas NK. - Financial Data Analyst | FP&A & Due Diligence | Excel • Power BI • SQL/Python 
+### Gildas NK. - Financial Data Analyst | Excel • Power BI • SQL/Python 
 **Available for freelance - Remote**
 
 I turn raw trial balances & sales data into decision-ready reporting for P&L steering, Bridge Analysis (Volume/Price/Mix, COGS/FX) & Variance Analysis.
